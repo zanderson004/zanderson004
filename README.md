@@ -17,11 +17,11 @@ I am currently studying a Bachelor of Mathematical & Computer Sciences at the Un
 - Re-engineered initial Python program to a JavaScript web app with an HTML/CSS interface
 - Implemented asynchronous web API calls and custom shuffle logic based on user input
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Contact Me
 Email: zanderson004@gmail.com
 LinkedIn: [zanderson004](https://www.linkedin.com/in/zanderson004/)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanderson004)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zanderson004/zanderson004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
