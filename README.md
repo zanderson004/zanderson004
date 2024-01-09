@@ -23,8 +23,11 @@ I am currently studying a Bachelor of Mathematical & Computer Sciences at the Un
 - Implemented asynchronous web API calls and custom shuffle logic based on user input
 
 #### Contact Me
-Email: zanderson004@gmail.com
+Email: [zanderson004@gmail.com](mailto:zanderson004@gmail.com)
+
 LinkedIn: [zanderson004](https://www.linkedin.com/in/zanderson004/)
+
+[Résumé](https://zanderson004.github.io/resume.pdf)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanderson004)](https://github.com/anuraghazra/github-readme-stats) --!>
 
