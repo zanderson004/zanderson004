@@ -3,6 +3,11 @@
 I am currently studying a Bachelor of Mathematical & Computer Sciences at the University of Adelaide. Education is very important to me as I greatly enjoy learning, particularly in STEM fields, and I always want to know more. This interest has led me to work in tutoring and educational content development, including managing my own tutoring business.
 
 #### Featured
+[Sudoku](https://github.com/zanderson004/pvp-sudoku)
+- Created sudoku web app with three difficulty modes using Vue
+- Implemented sudoku validation, completion and board generation algorithms in TypeScript
+- Improved performance to be consistently under 1s for all features
+
 [Minesweeper with Save States](https://github.com/zanderson004/minesweeper)
 - Collaborated in a team of 3 to recreate classic Minesweeper with various board configuration options and save states using SFML with C++
 - Developed the object-oriented structure and implemented entity, tile, mine, and number classes
